@@ -1,0 +1,9 @@
+Kamil: 10
+Kamil: 13
+Adam: 5
+Bogdan: 11
+Andrzej: 6
+Arnold: 5
+Olek: 6
+ZZZ: 6
+Dziala: 11
